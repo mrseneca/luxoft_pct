@@ -9,7 +9,7 @@ To run this application, you will need:
 1. **Clone the Repository**
 
     ```
-    git clone <repository_URL>
+    git clone https://github.com/mrseneca/luxoft_pct.git
     ```
 
 2. **Navigate to the Project Directory**
